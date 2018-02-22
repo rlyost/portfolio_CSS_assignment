@@ -1,43 +1,44 @@
          *{
             margin: 0px;
             padding: 0px;
+            background-color: #F1F4F8; 
          }
          #wrapper{
             width: 950px;
-            background-color: silver;
+            background-color: white;
             margin: 0px auto;
-            padding: 20px;
+            padding: 30px;
          }
          #header{
-            height: 150px;
+            height: 60px;
             background-color: grey;
-            margin-bottom: 20px;
-         }
-         #navigation{
-            height: 300px;
-            width: 200px;
-            background-color: blue;
-            display: inline-block;
-            vertical-align: top;
-            margin-right: 20px;
          }
          #main_content{
-            height: 400px;
-            width: 700px;
-            background-color: red;
+            height: 700px;
+            background-color: #1B0B0F;
+            padding: 30px 0px 0px 30px;
+         }
+         #abouthead{
+            height: 250px;
+            width: 890px;
+            background-color: grey;
             display: inline-block;
-            padding: 10px;
+            vertical-align: top;
          }
          .subcontents{
-            height: 200px;
-            width: 210px;
+            height: 400px;
+            width: 272px;
             background-color: yellow;
-            margin-right: 9px;
+            margin-right: 30px;
+            margin-top: 30px;
             display: inline-block;
          }
-         #advertisement{
-            height: 120px;
-            width: 660px;
-            background-color: purple;
-            margin-top: 15px;
+         #footer{
+            height: 60px;
+            background-color: #FEFEFE;
+            text-align: center;
+            padding: 10px;
+         }
+         .under {
+            text-decoration: underline;
          }
