@@ -114,6 +114,13 @@
          .under {
             text-decoration: underline;
          }
+         .social {
+            width: 20px;
+            height: 20px;
+         }
+         .tech {
+            background-color: transparent;
+         }
          button {
             display: block;
             margin: 10px auto 15px auto;
@@ -133,6 +140,9 @@
             background-color: transparent;
          }
          th {
+            background-color: transparent;
+         }
+         h3 {
             background-color: transparent;
          }
 
